@@ -1,1 +1,1 @@
-# .wois
+# WOIS
